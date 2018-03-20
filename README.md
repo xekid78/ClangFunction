@@ -1,0 +1,2 @@
+# ClangFunction
+関数
